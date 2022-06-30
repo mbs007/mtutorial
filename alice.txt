@@ -2,4 +2,6 @@ hello alice
 how are you?
 where are you
 how is your child?
+How are your parents?
+how is life going?
 
